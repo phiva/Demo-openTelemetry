@@ -27,4 +27,4 @@ This will collect traces from application and captures at the collector port.
 # 5. Install and Configure Grafana:  
 
     cd grafana
-    kubectl apply -f .
+    kubectl apply -f .# OpenTelemetry-Teste
